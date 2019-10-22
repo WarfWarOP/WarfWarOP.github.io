@@ -1,0 +1,22 @@
+.calculate{
+    border: 7px solid #aeaeae;
+    padding: 20px;
+    min-height: 400px;
+    max-height: 400px;
+}
+
+p {
+    font-size: 2rem;
+}
+
+p span {
+   color: red; 
+}
+
+label[namber] {
+    width: 50px;
+}
+
+input{
+    display: inherit;
+}
